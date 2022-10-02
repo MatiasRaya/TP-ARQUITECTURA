@@ -1,8 +1,8 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
-| Date         : Wed Sep 28 19:12:49 2022
-| Host         : DESKTOP-058OJ58 running 64-bit major release  (build 9200)
+| Date         : Sun Oct  2 18:52:15 2022
+| Host         : DESKTOP-K2VPBA5 running 64-bit major release  (build 9200)
 | Command      : report_utilization -file black_box_utilization_placed.rpt -pb black_box_utilization_placed.pb
 | Design       : black_box
 | Device       : xc7a35tcpg236-1
