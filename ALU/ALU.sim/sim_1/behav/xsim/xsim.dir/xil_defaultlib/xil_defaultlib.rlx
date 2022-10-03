@@ -3,7 +3,7 @@
 Apr 18 2022
 16:05:34
 C:/Users/matia/TP-ARQUI/ALU/ALU.sim/sim_1/behav/xsim/glbl.v,1663711655,verilog,,,,glbl,,,,,,,,
-C:/Users/matia/TP-ARQUI/ALU/ALU.srcs/sim_1/new/blackbox_tb.v,1664015506,verilog,,,,blackbox_tb,,,,,,,,
+C:/Users/matia/TP-ARQUI/ALU/ALU.srcs/sim_1/new/blackbox_tb.v,1664827848,verilog,,,,blackbox_tb,,,,,,,,
 C:/Users/matia/TP-ARQUI/ALU/ALU.srcs/sources_1/new/alu.v,1663321686,verilog,,C:/Users/matia/TP-ARQUI/ALU/ALU.srcs/sources_1/new/blackbox.v,,alu,,,,,,,,
 C:/Users/matia/TP-ARQUI/ALU/ALU.srcs/sources_1/new/blackbox.v,1663753546,verilog,,C:/Users/matia/TP-ARQUI/ALU/ALU.srcs/sources_1/new/switches.v,,black_box,,,,,,,,
 C:/Users/matia/TP-ARQUI/ALU/ALU.srcs/sources_1/new/switches.v,1664746533,verilog,,C:/Users/matia/TP-ARQUI/ALU/ALU.srcs/sim_1/new/blackbox_tb.v,,switches,,,,,,,,
